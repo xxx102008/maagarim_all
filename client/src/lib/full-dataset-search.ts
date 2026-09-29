@@ -1,9 +1,10 @@
 import { readOfflineFile, readOfflineUrlRange } from "./offline-data";
 
 const RECORD_BYTES = 16;
-const MEDIA_ROOT = "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main";
+const DATA_COMMIT = "c90dac6d01093330fb9d0c5fe7656ff7ef35115b";
+const MEDIA_ROOT = `https://media.githubusercontent.com/media/xxx102008/maagarim_all/${DATA_COMMIT}`;
 const INDEX_ROOT = MEDIA_ROOT;
-const RAW_INDEX_ROOT = "https://raw.githubusercontent.com/xxx102008/maagarim_all/main";
+const RAW_INDEX_ROOT = `https://raw.githubusercontent.com/xxx102008/maagarim_all/${DATA_COMMIT}`;
 const SEEK_ROOT = `${import.meta.env.BASE_URL}index-seek`;
 
 type SourceKey = "agron2006" | "elector" | "facebook";
