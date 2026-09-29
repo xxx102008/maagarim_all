@@ -1,0 +1,41 @@
+{
+  "buildId": "7024a5b9c044419f2be5b24ab77538b4b9d8192d",
+  "version": "7024a5b",
+  "builtAt": "2026-09-29T21:16:03.504Z",
+  "appBytes": 1687304,
+  "downloadBytes": 610408,
+  "resources": [
+    {
+      "url": "/maagarim_all/assets/index-B0u1Eeu1.css",
+      "bytes": 147608
+    },
+    {
+      "url": "/maagarim_all/assets/index-nMA7I8Lz.js",
+      "bytes": 554115
+    },
+    {
+      "url": "/maagarim_all/assets/xlsx-DGuHH-KN.js",
+      "bytes": 429493
+    },
+    {
+      "url": "/maagarim_all/index-seek/offline-data-manifest.json",
+      "bytes": 13394
+    },
+    {
+      "url": "/maagarim_all/index.html",
+      "bytes": 368481
+    },
+    {
+      "url": "/maagarim_all/manifest.webmanifest",
+      "bytes": 649
+    },
+    {
+      "url": "/maagarim_all/pwa-icon-192.png",
+      "bytes": 21459
+    },
+    {
+      "url": "/maagarim_all/pwa-icon-512.png",
+      "bytes": 152105
+    }
+  ]
+}

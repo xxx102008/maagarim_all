@@ -1,0 +1,466 @@
+[
+  {
+    "path": "datasets/CleanOnExit/.il_cleaned_normalized.txt",
+    "name": ".il_cleaned_normalized.txt",
+    "bytes": 4204427,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/.il_cleaned_normalized.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/103FM-Members.csv",
+    "name": "103FM-Members.csv",
+    "bytes": 5858171,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/103FM-Members.csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/121k .il.txt",
+    "name": "121k .il.txt",
+    "bytes": 4204427,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/121k .il.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/2k Data Israel.xlsx",
+    "name": "2k Data Israel.xlsx",
+    "bytes": 337665,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/2k Data Israel.xlsx"
+  },
+  {
+    "path": "datasets/CleanOnExit/4_5978913802555494372.xlsx",
+    "name": "4_5978913802555494372.xlsx",
+    "bytes": 337665,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/4_5978913802555494372.xlsx"
+  },
+  {
+    "path": "datasets/CleanOnExit/AtrafData.zip",
+    "name": "AtrafData.zip",
+    "bytes": 776773124,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/AtrafData.zip"
+  },
+  {
+    "path": "datasets/CleanOnExit/Cryptome.csv",
+    "name": "Cryptome.csv",
+    "bytes": 3573117,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/Cryptome.csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/FBDBIL.txt",
+    "name": "FBDBIL.txt",
+    "bytes": 298231471,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/FBDBIL.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/Israel-Post.rar",
+    "name": "Israel-Post.rar",
+    "bytes": 175169246,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/Israel-Post.rar"
+  },
+  {
+    "path": "datasets/CleanOnExit/Israel.zip",
+    "name": "Israel.zip",
+    "bytes": 111384242,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/Israel.zip"
+  },
+  {
+    "path": "datasets/CleanOnExit/LockerAmbinCustomers.csv",
+    "name": "LockerAmbinCustomers.csv",
+    "bytes": 117030131,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/LockerAmbinCustomers.csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/[dbo].[Users]_part1.csv",
+    "name": "[dbo].[Users]_part1.csv",
+    "bytes": 58628100,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/[dbo].[Users]_part1.csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/activebr_wp101.sql",
+    "name": "activebr_wp101.sql",
+    "bytes": 23051308,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/activebr_wp101.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/agofer-law.co.il.sql",
+    "name": "agofer-law.co.il.sql",
+    "bytes": 1878,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/agofer-law.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/arab-hebrew-theatre.org.il.txt",
+    "name": "arab-hebrew-theatre.org.il.txt",
+    "bytes": 35588,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/arab-hebrew-theatre.org.il.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/archineto_db.sql",
+    "name": "archineto_db.sql",
+    "bytes": 1913240,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/archineto_db.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/asimon.co.il.zip",
+    "name": "asimon.co.il.zip",
+    "bytes": 309059,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/asimon.co.il.zip"
+  },
+  {
+    "path": "datasets/CleanOnExit/bestpric_bookmap.sql",
+    "name": "bestpric_bookmap.sql",
+    "bytes": 12255107,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/bestpric_bookmap.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/brenerto_brenert.sql",
+    "name": "brenerto_brenert.sql",
+    "bytes": 16398834,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/brenerto_brenert.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/calcalit-tamar.co.il.txt",
+    "name": "calcalit-tamar.co.il.txt",
+    "bytes": 64550,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/calcalit-tamar.co.il.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/cig.co.il.sql",
+    "name": "cig.co.il.sql",
+    "bytes": 596958386,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/cig.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/database.rar",
+    "name": "database.rar",
+    "bytes": 14575556,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/database.rar"
+  },
+  {
+    "path": "datasets/CleanOnExit/derechaetz.org.il.sql",
+    "name": "derechaetz.org.il.sql",
+    "bytes": 28498640,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/derechaetz.org.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/dfusdigi_biz.sql",
+    "name": "dfusdigi_biz.sql",
+    "bytes": 17078158,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/dfusdigi_biz.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/digevent_32gi.sql",
+    "name": "digevent_32gi.sql",
+    "bytes": 80284205,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/digevent_32gi.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/digitalb_wp45(1).sql",
+    "name": "digitalb_wp45(1).sql",
+    "bytes": 11335337,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/digitalb_wp45(1).sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/e-kitchens.co.il.sql",
+    "name": "e-kitchens.co.il.sql",
+    "bytes": 11129112,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/e-kitchens.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/edupedia.co.il.sql",
+    "name": "edupedia.co.il.sql",
+    "bytes": 2060587,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/edupedia.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/felixlawoffice.co.il.sql",
+    "name": "felixlawoffice.co.il.sql",
+    "bytes": 8811380,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/felixlawoffice.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/hagavia4_sdfg.sql",
+    "name": "hagavia4_sdfg.sql",
+    "bytes": 5631291,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/hagavia4_sdfg.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/haimbita_haimbita.sql",
+    "name": "haimbita_haimbita.sql",
+    "bytes": 14208420,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/haimbita_haimbita.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/harel_altdb.sql",
+    "name": "harel_altdb.sql",
+    "bytes": 1481680,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/harel_altdb.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/hasharat.co.il2015.txt",
+    "name": "hasharat.co.il2015.txt",
+    "bytes": 248489,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/hasharat.co.il2015.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/humor.il.txt",
+    "name": "humor.il.txt",
+    "bytes": 35681,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/humor.il.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/il.txt.txt",
+    "name": "il.txt.txt",
+    "bytes": 139589,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/il.txt.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/inglass.co.il.sql",
+    "name": "inglass.co.il.sql",
+    "bytes": 75284149,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/inglass.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/israeli data leak.txt",
+    "name": "israeli data leak.txt",
+    "bytes": 275093,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/israeli data leak.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/israelpost.co.il (orders).csv",
+    "name": "israelpost.co.il (orders).csv",
+    "bytes": 387082068,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/israelpost.co.il (orders).csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/israelpost.co.il.zip",
+    "name": "israelpost.co.il.zip",
+    "bytes": 248376449,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/israelpost.co.il.zip"
+  },
+  {
+    "path": "datasets/CleanOnExit/israelpost_users.csv",
+    "name": "israelpost_users.csv",
+    "bytes": 151292713,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/israelpost_users.csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/kasher_ma.sql",
+    "name": "kasher_ma.sql",
+    "bytes": 28719027,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/kasher_ma.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/leen.co.il.txt",
+    "name": "leen.co.il.txt",
+    "bytes": 13067,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/leen.co.il.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/lironi_lironi.sql",
+    "name": "lironi_lironi.sql",
+    "bytes": 155859,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/lironi_lironi.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/lotoisrael.co.il.txt",
+    "name": "lotoisrael.co.il.txt",
+    "bytes": 184541,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/lotoisrael.co.il.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/maccabi.co.il.txt",
+    "name": "maccabi.co.il.txt",
+    "bytes": 554220,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/maccabi.co.il.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/maofdesi_aska.sql",
+    "name": "maofdesi_aska.sql",
+    "bytes": 3905306,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/maofdesi_aska.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/naty_insulation.sql",
+    "name": "naty_insulation.sql",
+    "bytes": 21200476,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/naty_insulation.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/oronlaut_db.sql",
+    "name": "oronlaut_db.sql",
+    "bytes": 8939961,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/oronlaut_db.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/passim.co.il.orders.csv",
+    "name": "passim.co.il.orders.csv",
+    "bytes": 6580,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/passim.co.il.orders.csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/policenumberdata.csv",
+    "name": "policenumberdata.csv",
+    "bytes": 37689729,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/policenumberdata.csv"
+  },
+  {
+    "path": "datasets/CleanOnExit/reuth.org.txt",
+    "name": "reuth.org.txt",
+    "bytes": 193777,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/reuth.org.txt"
+  },
+  {
+    "path": "datasets/CleanOnExit/samoray_samor.sql",
+    "name": "samoray_samor.sql",
+    "bytes": 18372777,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/samoray_samor.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/shen-poleg.co.il.sql",
+    "name": "shen-poleg.co.il.sql",
+    "bytes": 208950,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/shen-poleg.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/thezebra.co.il.sql",
+    "name": "thezebra.co.il.sql",
+    "bytes": 89088231,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/thezebra.co.il.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/tropicasa_tropi.sql",
+    "name": "tropicasa_tropi.sql",
+    "bytes": 8434870,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/tropicasa_tropi.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/twitter.7z",
+    "name": "twitter.7z",
+    "bytes": 292805543,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/twitter.7z"
+  },
+  {
+    "path": "datasets/CleanOnExit/twitter.sql",
+    "name": "twitter.sql",
+    "bytes": 1144579653,
+    "searchable": true,
+    "reason": null,
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/twitter.sql"
+  },
+  {
+    "path": "datasets/CleanOnExit/wanted.zip",
+    "name": "wanted.zip",
+    "bytes": 25718120,
+    "searchable": false,
+    "reason": "ארכיון בינארי — יש לחלץ אותו לפני חיפוש טקסט מלא",
+    "url": "https://media.githubusercontent.com/media/xxx102008/maagarim_all/main/datasets/CleanOnExit/wanted.zip"
+  }
+]
